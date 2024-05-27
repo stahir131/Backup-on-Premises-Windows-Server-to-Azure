@@ -8,9 +8,9 @@ Recovery services vault is a management entity that stores recovery points that 
 Search for <b>Backup and Site Recovery</b> and create Service vault</br>
 
 <b>Step3: Download Recovery Services Agent</b>
-Go to the created Vault > Backup > select On-Premises
+Go to the created Vault -> Backup -> select On-Premises
 </br>
-What do you want to backup > Files and Folders & system state
+What do you want to backup -> Files and Folders & system state
 
 Click on <b>Prepare Infrastructure
 </b>
