@@ -1,4 +1,4 @@
-<h3><p align="center"><b>Backup on-Premises Windows Server to Azure</b></p></h3>h3>
+<h3><p align="center"><b>Backup on-Premises Windows Server to Azure</b></p></h3>
 This tutorial describes how to backup an on-premises Windows server to Azure using Microsoft Azure Recovery Services(MARS).<br />
 <b>Step1: Login to Azure</b>
 <br />
